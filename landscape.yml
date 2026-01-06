@@ -107,3 +107,9 @@ landscape:
             repo_url: https://github.com/chaoss/augur
             logo: Augurlabs.svg  
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
+          - item:
+            name: NTIA Conformance Checker
+            homepage_url: https://github.com/spdx/ntia-conformance-checker
+            repo_url: https://github.com/spdx/ntia-conformance-checker
+            logo: spdx.svg
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
